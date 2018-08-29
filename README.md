@@ -8,7 +8,7 @@ compile:
 
 $ make
 
-The make create executble files that makes it possible to compare the hashes with original implementation The 'Argonmain' is the executable file that print out the hashes of Argon2
+The make create executble files that makes it possible to compare the hashes with original implementation. The 'Argonmain' is the executable file that print out the hashes of Argon2
 
 Command line
 
